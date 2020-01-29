@@ -1,6 +1,6 @@
 title = "Shanj的博客"
 publishDir = "public"
-baseURL = "http://shanj0508.monster/"
+baseURL = "https://shanj0508.monster/"
 languageCode = "zh-Hans"
 theme = "ananke"
 

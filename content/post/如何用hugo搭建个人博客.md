@@ -63,7 +63,7 @@ Hugo是go语言实现的博客生成器，js语言实现的博客生成器是Hex
 ## 新建博客的常用命令
 * 在站点根目录路径下，使用命令新建文章：hugo new post/文章名称.md
 * 重启服务：hugo server 或 hugo server -D
-* hugo
+* hugo   --重新编译，生成public文件
 * cd public/
 * git add .
 * git commit
