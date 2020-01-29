@@ -1,5 +1,4 @@
-baseURL = "http://shanj0508.monster/"
+baseURL = "http://example.org/"
 languageCode = "zh-Hans"
 title = "Shanj的博客"
 theme = "ananke"
-publishdir = "D:/project_demo/jirengu/shanj0508.github.io-creator"
