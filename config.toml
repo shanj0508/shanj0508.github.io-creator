@@ -1,8 +1,10 @@
 title = "Shanj的博客"
-baseURL = "https://shanj0508.monster"
+publishDir = "public"
+baseURL = "http://shanj0508.monster/"
 languageCode = "zh-Hans"
 theme = "ananke"
-themesDir = "../.."
+
+
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
